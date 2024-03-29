@@ -13,6 +13,7 @@ heres are the solutions available
 * [Trickster](./Web%20Exploitation/Trickster.md)
 ### Cryptography
 * [interencdec](./Cryptography/interencdec.md)
+* [Custom encryption](./Cryptography/Custom%20encryption.md)
 
 ### Reverse Engineering
 
