@@ -12,6 +12,7 @@ heres are the solutions available
 * [No Sql Injection](./Web%20Exploitation/No%20Sql%20Injection.md)
 * [Trickster](./Web%20Exploitation/Trickster.md)
 ### Cryptography
+* [interencdec](./Cryptography/interencdec.md)
 
 ### Reverse Engineering
 
